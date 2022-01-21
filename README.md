@@ -58,8 +58,8 @@
 
 
 
-### Examples of Graphs
+### Examples of Graphs Used
 ![Correlation Heatmap)](https://user-images.githubusercontent.com/62624592/150454517-dfe1383c-1416-49e1-9e83-c2e96ba94ba2.png)
 
-
+![VIF Graph](https://user-images.githubusercontent.com/62624592/150454616-e78df7f0-9a81-4730-b799-d1fc116d5ff6.png)
 
