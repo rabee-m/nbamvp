@@ -23,32 +23,6 @@
 
 
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -78,17 +52,14 @@
 
 
 <!-- Results -->
-## Getting Started
+## Results
+![MVP Predictions](https://user-images.githubusercontent.com/62624592/150454335-fd0f689a-162a-4fb6-9ef4-f1bf16a7c7e5.png)
+<p> The model achieved an R^2 value of 0.6127, guessing 8/10 of it's predictions correctly. </p>
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+### Examples of Graphs
+![Correlation Heatmap)](https://user-images.githubusercontent.com/62624592/150454517-dfe1383c-1416-49e1-9e83-c2e96ba94ba2.png)
+
 
 
