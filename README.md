@@ -63,5 +63,5 @@
 
 <!-- Acknowledgements -->
 ## Acknowledgements
-Inspiration from this article: (https://towardsdatascience.com/predicting-the-next-nba-mvp-using-machine-learning-62615bfcff75)
+Inspiration from this article: https://towardsdatascience.com/predicting-the-next-nba-mvp-using-machine-learning-62615bfcff75
 <!-- Acknowledgements -->
