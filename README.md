@@ -28,8 +28,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 <p>This project utilizes RandomForest Regression ML model to predict the NBA MVP. Now you may think that this is not a regression problem, but more of a classification problem, however our approach to predicting MVP consists of predicting a numerical variable called MVP win share. From that prediction, the player in the season with the highest MVP win share is predicted to be the MVP. As you can see structuring the problem like this lends more towards a regression solution.</p>
 
 <p> Our machine learning model is trained on data from 1980-2010, and then we use that to predict the MVP's for the 2011-2021 season.
@@ -55,7 +53,7 @@
 ![VIF Graph](https://user-images.githubusercontent.com/62624592/150454616-e78df7f0-9a81-4730-b799-d1fc116d5ff6.png)
 
 <!-- Usage -->
-### Usage
+## Usage
 <p> To run this model, download the jupyter notebook, and data. Then within the file change the URL for the raw_mvp_data variable to the path wherethe data is located on your system.</p>
 
 <!-- Results -->
