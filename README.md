@@ -57,7 +57,6 @@
 <!-- Usage -->
 ### Usage
 <p> To run this model, download the jupyter notebook, and data. Then within the file change the URL for the raw_mvp_data variable to the path wherethe data is located on your system.</p>
-<!-- Usage -->
 
 <!-- Results -->
 ## Results
