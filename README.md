@@ -54,8 +54,10 @@
 
 ![VIF Graph](https://user-images.githubusercontent.com/62624592/150454616-e78df7f0-9a81-4730-b799-d1fc116d5ff6.png)
 
+<!-- Usage -->
 ### Usage
 <p> To run this model, download the jupyter notebook, and data. Then within the file change the URL for the raw_mvp_data variable to the path wherethe data is located on your system.</p>
+<!-- Usage -->
 
 <!-- Results -->
 ## Results
