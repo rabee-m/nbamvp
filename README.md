@@ -49,17 +49,14 @@
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+### Examples of Graphs Used
+![Correlation Heatmap)](https://user-images.githubusercontent.com/62624592/150454517-dfe1383c-1416-49e1-9e83-c2e96ba94ba2.png)
 
+![VIF Graph](https://user-images.githubusercontent.com/62624592/150454616-e78df7f0-9a81-4730-b799-d1fc116d5ff6.png)
 
 <!-- Results -->
 ## Results
 ![MVP Predictions](https://user-images.githubusercontent.com/62624592/150454335-fd0f689a-162a-4fb6-9ef4-f1bf16a7c7e5.png)
 <p> The model achieved an R^2 value of 0.6127, guessing 8/10 of it's predictions correctly. </p>
 
-
-
-### Examples of Graphs Used
-![Correlation Heatmap)](https://user-images.githubusercontent.com/62624592/150454517-dfe1383c-1416-49e1-9e83-c2e96ba94ba2.png)
-
-![VIF Graph](https://user-images.githubusercontent.com/62624592/150454616-e78df7f0-9a81-4730-b799-d1fc116d5ff6.png)
 
