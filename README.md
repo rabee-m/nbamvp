@@ -59,4 +59,7 @@
 ![MVP Predictions](https://user-images.githubusercontent.com/62624592/150454335-fd0f689a-162a-4fb6-9ef4-f1bf16a7c7e5.png)
 <p> The model achieved an R^2 value of 0.6127, guessing 8/10 of it's predictions correctly. </p>
 
-
+<!-- Acknowledgements -->
+## Acknowledgements
+<p> [Inspiration from this article] (https://towardsdatascience.com/predicting-the-next-nba-mvp-using-machine-learning-62615bfcff75)
+<!-- Acknowledgements -->
