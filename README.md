@@ -1,7 +1,6 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://courtsidecritics.com/wp-content/uploads/2020/10/MVP.jpg">
     <img src="images/logo.png" alt="Logo" width="280" height="280">
   </a>
 
@@ -9,15 +8,6 @@
 
   <p align="center">
     A machine learning model using RandomForest Regression that predicts NBA MVP's using player data.
-    <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
